@@ -1,0 +1,3 @@
+http://feeds.foxnews.com/foxnews/politics
+http://rss.cnn.com/rss/cnn_allpolitics.rss
+https://www.huffpost.com/section/politics/feed
